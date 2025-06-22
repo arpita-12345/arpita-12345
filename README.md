@@ -12,4 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita&show_icons=true&locale=en" alt="arpita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita&" alt="arpita" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita&" alt="arpita" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-12345&" alt="arpita" /></p>
